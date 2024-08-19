@@ -25,5 +25,5 @@ Bu proje, klasik "Taş, Kağıt, Makas" oyununu Python dilinde simüle eden bir 
 
 4. **Çıkış:**
    - Kullanıcı, oyunun herhangi bir anında "çıkış" seçeneğini seçerek oyunu sonlandırabilir.
-   - Kullanıcıya çıkmak isteyip istemediği sorulur. "Evet" cevabı verildiğinde oyun sonlanır, "Hayır" cevabı verildiğinde oyun devam eder.
+   - Kullanıcıya çıkmak isteyip istemediği sorulur. "Evet" cevabı verildiğinde oyun sonlanır, "Hayır" cevabı verildiğinde bilgisayar da devam etmek isterse oyun devam eder.
 
